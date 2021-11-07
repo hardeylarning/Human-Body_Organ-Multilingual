@@ -101,8 +101,10 @@
 
     <string name="picky_finger_desc">Picky finger is the fifth digit and smallest of the fingers.</string>
 
-    <string name="pointer_finger_desc">Pointer Finger</string>
-    <string name="ring_finger_desc">Ring Finger</string>
+    <string name="pointer_finger_desc">The index finger is the second digit of the hand. Along with
+        the thumb and middle finger, it is one of the most often-used digits. This finger has practical applications of both sensory touch and grasp, but it is often used for expressive purposes as well. This usually takes the form of non-verbal hand gestures. For this reason, the index finger is also known as ‘the pointer’. </string>
+    <string name="ring_finger_desc">The ring finger refers to the fourth digit of each hand,
+        located between the middle and pinky fingers.</string>
 
     <string name="teeth_desc">Tooth, plural teeth, any of the hard,
         resistant structures occurring on the jaws and in or around
@@ -137,14 +139,18 @@
 
     <string name="hair_desc">Hair is on top of the scalp, regulating body temperature;
         protecting the scalp</string>
-    <string name="head_desc">Head</string>
+    <string name="head_desc">The human head is home to all the body\'s major sensory organs, and
+        the most important of these is the brain. Although the nose, ears, tongue, nerves, and others parts are important, without a healthy brain, they\'d all be useless. Encased in the skull, the brain is the body\'s centralized conveyor of all information.</string>
     <string name="neck_desc">Neck is below the head, above the shoulders, for supporting the head’s
         weight; allowing the head to turn; sending messages from the brain to the rest of the body (vertebrae)</string>
     <string name="chest_desc">Chest is top of the torso, protecting lungs and heart;
         assisting in arm movement</string>
-    <string name="shoulder_desc">Shoulder</string>
+    <string name="shoulder_desc">The shoulder is one of the largest and most complex joints in the
+        body. The shoulder joint is formed where the humerus (upper arm bone) fits into the scapula (shoulder blade), like a ball and socket. Other important bones in the shoulder include: The acromion is a bony projection off the scapula.</string>
     <string name="stomach_desc">Stomach</string>
-    <string name="wrist_desc">Wrist</string>
+    <string name="wrist_desc">The wrist connects the hand to the forearm. It consists of the distal
+        ends of the radius and ulna bones, eight carpal bones, and the proximal ends of five metacarpal bones. This arrangement of bones allows for a wide range of movement. The wrist can bend, straighten, move laterally, and rotate.</string>
+
     <string name="hand_desc">hand is end of the arm, connected to the wrist,
         fine motor skills (writing, pinching, gripping) </string>
     <string name="finger_desc">finger is end of hand, helping with grip;

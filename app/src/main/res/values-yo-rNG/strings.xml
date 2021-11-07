@@ -16,9 +16,9 @@
     <string name="knuckle">Ikùnkún</string>
     <string name="middle_finger">Ìkàrin</string>
     <string name="palm">Ọpẹ Ìka</string>
-    <string name="picky_finger">Ìka</string>
+    <string name="picky_finger">Ìka imunkan</string>
     <string name="pointer_finger">Ìka itọka</string>
-    <string name="ring_finger">Iwọn Ìka</string>
+    <string name="ring_finger">Ìka-oruka</string>
     <string name="teeth">Eyín</string>
     <string name="thumb">Àtàǹpàkò</string>
 
@@ -72,16 +72,19 @@
 
 <!--   Needed -->
 
-    <string name="shoulder_desc">Shoulder</string>
+    <string name="shoulder_desc">ejika jẹ ọkan ninu awọn isẹpo ti o tobi julọ ati ti o pọju julọ
+        ninu ara. Apapọ ejika ni a ṣẹda nibiti humerus (egungun apa oke) wọ inu scapula (abẹfẹlẹ ejika), bii bọọlu ati iho. Awọn egungun pataki miiran ni ejika pẹlu: Acromion jẹ iṣiro egungun kuro ni scapula</string>
     <string name="stomach_desc">Stomach</string>
-    <string name="wrist_desc">Wrist</string>
-    <string name="head_desc">Head</string>
-    <string name="palm_desc">Palm</string>
-    <string name="picky_finger_desc">Picky Finger</string>
-    <string name="pointer_finger_desc">Pointer Finger</string>
-    <string name="ring_finger_desc">Ring Finger</string>
-    <string name="middle_finger_desc">Middle Finger</string>
-    <string name="hand_wrist_desc">Hand Wrist</string>
+    <string name="wrist_desc">Ọrun-ọwọ so ọwọ pọ mọ iwaju apa. O ni awọn opin jijinna ti radius ati
+        awọn egungun ulna, awọn egungun carpal mẹjọ, ati awọn opin isunmọ ti awọn egungun metacarpal marun. Eto ti awọn egungun yii ngbanilaaye fun ọpọlọpọ gbigbe. Ọrun-ọwọ le tẹ, taara, gbe ni ita, ki o si yi.</string>
+    <string name="head_desc">Ori eniyan jẹ ile si gbogbo awọn ẹya ara ti ara pataki ti ara, ati pe
+        o ṣe pataki julọ ninu iwọnyi ni ọpọlọ. Botilẹjẹpe imu, eti, ahọn, awọn ara, ati awọn ẹya miiran jẹ pataki, laisi ọpọlọ ilera, gbogbo wọn yoo jẹ asan. Ti o wa ninu timole, ọpọlọ jẹ gbigbe si aarin ti ara ti gbogbo alaye.</string>
+    <string name="palm_desc">Ọpẹ ọwọ jẹ apa alapin ti ọwọ, iranlọwọ pẹlu mimu; ori ti ifọwọkan</string>
+    <string name="picky_finger_desc">Ika yiyan jẹ nọmba karun ati kere julọ ti awọn ika ọwọ.</string>
+    <string name="pointer_finger_desc">Ika atọka jẹ nọmba keji ti ọwọ. Paapọ pẹlu atanpako ati ika aarin, o jẹ ọkan ninu awọn nọmba ti a lo nigbagbogbo. Ika yii ni awọn ohun elo to wulo ti ifọwọkan ifarako mejeeji ati imudani, ṣugbọn o nigbagbogbo lo fun awọn idi asọye bi daradara. Eyi maa n gba irisi awọn idari ọwọ ti kii ṣe ẹnu. Fun idi eyi, ika itọka ni a tun mọ ni \'itọkasi\'.</string>
+    <string name="ring_finger_desc">Ika oruka n tọka si nọmba kẹrin ti ọwọ kọọkan, ti o wa laarin aarin ati awọn ika ọwọ.</string>
+    <string name="middle_finger_desc">Ika arin ti a tọka si bi ika gigun tabi giga joko ni aarin ọwọ</string>
+    <string name="hand_wrist_desc">Orun Ọwọ jẹ apakan ti ara laarin ọwọ ati apa ti o tẹ nigbati o ba gbe ọwọ rẹ.</string>
 
 <!--    Needed end -->
 
