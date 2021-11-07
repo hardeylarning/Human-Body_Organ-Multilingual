@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">àwọn ẹ̀yà ara</string>
+    <string name="parts_of_the_body">ẸYA ARA</string>
+    <string name="click_here">Kílíìkì ibí</string>
+    <string name="change_language">Yí èdè padà</string>
+    <string name="exit">Jáde</string>
+
+    <!-- New Images starting-->
+    <string name="arm">Apá</string>
+    <string name="ear">Etí</string>
+    <string name="elbow">Igbonwo</string>
+    <string name="foot">Ẹsẹ̀</string>
+    <string name="hand_wrist">Ọrun Ọwọ́</string>
+    <string name="hip">Ibadi</string>
+    <string name="knuckle">Ikùnkún</string>
+    <string name="middle_finger">Ìkàrin</string>
+    <string name="palm">Ọpẹ Ìka</string>
+    <string name="picky_finger">Ìka</string>
+    <string name="pointer_finger">Ìka itọka</string>
+    <string name="ring_finger">Iwọn Ìka</string>
+    <string name="teeth">Eyín</string>
+    <string name="thumb">Àtàǹpàkò</string>
+
+    <string name="arm_desc">ni ẹgbẹ mejeeji ti ara, ṣiṣe awọn iṣẹ-ṣiṣe pẹlu gbigbe nkan</string>
+    <string name="ear_desc">ni ẹgbẹ mejeeji ti ori, ori ti igbọran; mimu iwontunwonsi</string>
+    <string name="elbow_desc">isẹpo laarin apa oke ati iwaju, sisopọ apa oke si iwaju; faagun apa; yiyi forearm</string>
+    <string name="foot_desc">isalẹ ti ẹsẹ, nrin; atilẹyin iwuwo ara; gbigbe ara siwaju</string>
+
+    <string name="hip_desc">pada ti torso, imuduro ara; idabobo vertebrae, eyi ti o fi awọn ifiranṣẹ ranṣẹ si awọn iyokù ti awọn ara</string>
+    <string name="knuckle_desc">isẹpo laarin awọn egungun ọwọ (carpals) ati awọn egungun ika
+        (phalanges) sisopọ awọn ika ọwọ si ọwọ; gba awọn ika ọwọ tẹ ati fa siwaju</string>
+
+
+    <string name="teeth_desc">inu ẹnu, jijẹ ounjẹ lati he ki osokale ninu ara</string>
+    <string name="thumb_desc">apa osi tabi ọtun ti ọwọ, ṣe iranlọwọ pẹlu dimu (o le yi pada si awọn ika ọwọ miiran)</string>
+    <!-- New Images end-->
+
+    <string name="hair">Irun Orí</string>
+    <string name="head">Orí</string>
+    <string name="neck">Ọrùn </string>
+    <string name="chest">Àyà</string>
+    <string name="shoulder">Èjìká</string>
+    <string name="stomach">Ikùn</string>
+    <string name="wrist">Ọrùn-Ọwọ́</string>
+    <string name="finger">Ìka</string>
+    <string name="thigh">Itan</string>
+    <string name="knee">Orúnkún</string>
+    <string name="skin">Awọ Ara</string>
+    <string name="toe">Àtàǹpàkò</string>
+    <string name="hand">Ọwọ́</string>
+    <string name="leg">Ẹsẹ̀</string>
+
+
+
+    <!--    Description-->
+
+    <string name="hair_desc">lori oke ti awọ-ara, ti n ṣatunṣe iwọn otutu ara; idabobo awọn scalp</string>
+
+    <string name="neck_desc">labẹ ori, loke awọn ejika, fun atilẹyin iwuwo ori; gbigba ori lati
+        yipada; fifiranṣẹ awọn ifiranṣẹ lati ọpọlọ si iyoku ti ara (vertebrae)</string>
+    <string name="chest_desc">oke ti torso, aabo awọn ẹdọforo ati ọkan; ṣe iranlọwọ ni gbigbe apa</string>
+
+    <string name="hand_desc">opin apa, ti a ti sopọ si ọwọ-ọwọ, awọn ọgbọn mọto daradara (kikọ, dimu) Ọpẹ apa alapin ti ọwọ, iranlọwọ pẹlu mimu; ori ti ifọwọkan </string>
+    <string name="finger_desc">opin ọwọ, iranlọwọ pẹlu mimu; ori ti ifọwọkan; ifaraju (itọkasi, awọn ifihan agbara ọwọ, ati bẹbẹ lọ)</string>
+    <string name="thigh_desc">oke ẹsẹ, loke orokun, gbigba ẹsẹ laaye lati rọ ati gbe; iwuwo atilẹyin ti ara oke</string>
+    <string name="knee_desc">isẹpo laarin itan ati itan, atunse ẹsẹ; iwuwo atilẹyin ti ara oke</string>
+    <string name="skin_desc">Skin</string>
+    <string name="leg_desc">ni isalẹ torso, loke ẹsẹ, fifi awọn ara duro; nrin; nṣiṣẹ; atunse ara</string>
+    <string name="toe_desc">opin ẹsẹ, pese iwontunwonsi nigba ti nrin; pinpin iwuwo ara</string>
+
+
+<!--   Needed -->
+
+    <string name="shoulder_desc">Shoulder</string>
+    <string name="stomach_desc">Stomach</string>
+    <string name="wrist_desc">Wrist</string>
+    <string name="head_desc">Head</string>
+    <string name="palm_desc">Palm</string>
+    <string name="picky_finger_desc">Picky Finger</string>
+    <string name="pointer_finger_desc">Pointer Finger</string>
+    <string name="ring_finger_desc">Ring Finger</string>
+    <string name="middle_finger_desc">Middle Finger</string>
+    <string name="hand_wrist_desc">Hand Wrist</string>
+
+<!--    Needed end -->
+
+
+<!--    New One-->
+
+    <string name="face">Ojú</string>
+    <string name="scalp">Awọ-orí</string>
+    <string name="forehead">Iwájú</string>
+    <string name="mouth">Ẹnu</string>
+    <string name="eyes">Ojú</string>
+    <string name="eyelid">ipenpeju</string>
+    <string name="eyelash">ideju ojú</string>
+    <string name="jaw">Ipá</string>
+    <string name="upper_arm">Apá òkè</string>
+    <string name="forearm">Iwájú</string>
+    <string name="fingernail">Èékánná</string>
+    <string name="shin">Shin</string>
+    <string name="ankle">Kokosẹ</string>
+    <string name="heel">Igigirisẹ</string>
+    <string name="torso">Torso</string>
+    <string name="abdomen">Ikun</string>
+    <string name="belly_button">Ideri Ikùn</string>
+    <string name="buttock">Apọju</string>
+
+
+    <!--    new Description-->
+
+    <string name="face_desc">Owa ni iwaju ori, li lo fun awọn imọ-ara marun ti n ba awọn ẹdun sọrọ. </string>
+    <string name="scalp_desc">Oke ti ori (labẹ irun), fun itutu ori pẹlu awọn keekeke lagun ninu awọ ara; aabo timole pẹlu afikun ẹjẹ ngba</string>
+    <string name="forehead_desc">Owa  loke awọn oju, fun ṣiṣe awọn oju oju; aabo awọn oju</string>
+    <string name="mouth_desc">labẹ imu, fun jijẹ; sọrọ; mimi; ori ti lenu</string>
+    <string name="eyes_desc">ni isalẹ iwaju, loke imu, li lo fun irina</string>
+    <string name="eyelid_desc">O kan loke oju, aabo awọn oju lati awọn patikulu ajeji; jeki oju lati pa</string>
+    <string name="eyelash_desc">lori awọn egbegbe ti Eyelid, aabo awọn oju lati ajeji patikulu</string>
+    <string name="jaw_desc">oke ẹnu (maxilla) ati isalẹ ti oṣu (mandible), jijẹ; ṣiṣi ati pipade ẹnu; sọrọ</string>
+    <string name="upper_arm_desc">laarin awọn ejika ati awọn igbonwo, fifẹ apa; sisopọ apa isalẹ si ejika</string>
+    <string name="forearm_desc">laarin awọn igbonwo ati awọn ọrun-ọwọ, fifẹ ọwọ-ọwọ; sisopọ apa si ọwọ-ọwọ</string>
+    <string name="fingernail_desc">opin ika, aabo awọn ibusun eekanna lati awọn patikulu ajeji; iranlọwọ pẹlu dimu</string>
+    <string name="shin_desc">ẹsẹ isalẹ, labẹ orokun, fifẹ ẹsẹ; imuduro kokosẹ</string>
+    <string name="ankle_desc">isopo laarin ẹsẹ ati didan, yiyi ẹsẹ; sisopọ ẹsẹ si ẹsẹ</string>
+    <string name="heel_desc">ẹhin ẹsẹ, pinpin iwuwo ara</string>
+    <string name="torso_desc">arin ti ara, laarin ọrun ati ẹsẹ, imuduro ara (iduro); idaabobo awọn ara inu; sisopọ awọn ẹsẹ (apa ati ese) si ara</string>
+    <string name="abdomen_desc">arin ti torso, imuduro ara; idaabobo awọn ara inu</string>
+    <string name="belly_button_desc">aarin ikun, o so okun inu ọmọ pọ mọ ibi-ọmọ iya rẹ ṣaaju ibimọ</string>
+    <string name="buttock_desc">ẹhin ti torso, o kan loke awọn ẹsẹ, fifẹ ara nigbati o joko; iranlọwọ ni ibadi ati itan ronu</string>
+
+    <string name="your_search_will_be_displayed_here">Ìwádì rẹ yóò hàn níbí</string>
+    <string name="exit_title">Ṣé o dá ọ lójú pé o fẹ́ jáde?</string>
+    <string name="yes">bẹẹni</string>
+    <string name="no">rárá</string>
+    <string name="search">wá</string>
+    <string name="search_body">wá ẹ̀yà ara</string>
+    <string name="no_search_found">kò sí èsì fún ìbéèrè rẹ</string>
+    <string name="image">Aworan</string>
+    <string name="home">Ile</string>
+    <string name="welcome_text">Ohun èlò akomode leko nípa eya ara ni orisirisi ede</string>
+    <string name="please_wait">se suru…</string>
+
+</resources>

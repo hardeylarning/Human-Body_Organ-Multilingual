@@ -1,0 +1,176 @@
+<resources>
+    <string name="app_name">Human Body Organ</string>
+    <string name="parts_of_the_body">PARTS OF THE BODY</string>
+    <string name="click_here">Click Here</string>
+
+
+    <string name="arm">Arm</string>
+    <string name="ear">Ear</string>
+    <string name="elbow">Elbow</string>
+    <string name="foot">Foot</string>
+    <string name="hand_wrist">Hand Wrist</string>
+    <string name="hip">Hip</string>
+    <string name="knuckle">Knuckle</string>
+    <string name="middle_finger">Middle Finger</string>
+    <string name="palm">Palm</string>
+    <string name="picky_finger">Picky Finger</string>
+    <string name="pointer_finger">Pointer Finger</string>
+    <string name="ring_finger">Ring Finger</string>
+    <string name="teeth">Teeth</string>
+    <string name="thumb">Thumb</string>
+
+
+    <!--    New One-->
+
+    <string name="face">Face</string>
+    <string name="scalp">Scalp</string>
+    <string name="forehead">Forehead</string>
+    <string name="mouth">Mouth</string>
+    <string name="eyes">Eyes</string>
+    <string name="eyelid">Eyelid</string>
+    <string name="eyelash">Eyelash</string>
+    <string name="jaw">Jaw</string>
+    <string name="upper_arm">Upper arm</string>
+    <string name="forearm">Forearm</string>
+    <string name="fingernail">Fingernail</string>
+    <string name="shin">Shin</string>
+    <string name="ankle">Ankle</string>
+    <string name="heel">Heel</string>
+    <string name="torso">Torso</string>
+    <string name="abdomen">Abdomen</string>
+    <string name="belly_button">Belly Button</string>
+    <string name="buttock">Buttock</string>
+
+
+    <!--    new Description-->
+
+    <string name="face_desc">Face is front of the head, use for five senses; communicating emotions</string>
+    <string name="scalp_desc">Scalp is top of the head (under hair), for cooling the head with
+        sweat glands in the skin; protecting the skull with extra blood vessels</string>
+    <string name="forehead_desc">Forehead is top of the face, above the eyes, for forming
+        facial expressions; protecting the eyes</string>
+    <string name="mouth_desc">Mouth is below the nose, for eating; talking; breathing; sense of taste</string>
+    <string name="eyes_desc">Eyes is below the forehead, above the nose, use for sense of sight</string>
+    <string name="eyelid_desc">Eyelid is just above the eye, protecting the eyes from
+        foreign particles; enable eyes to close</string>
+    <string name="eyelash_desc">Eyelash is on the edges of the eyelid, protecting the eyes from foreign particles</string>
+    <string name="jaw_desc">Jaw is on top of the mouth (maxilla) and bottom of the mouth (mandible)
+        , chewing; opening and closing the mouth; talking</string>
+    <string name="upper_arm_desc">Upper arm is between shoulders and elbows, flexing the arm;
+        connecting the lower arm to the shoulder</string>
+    <string name="forearm_desc">Forearm is between elbows and wrists, flexing the wrist;
+        connecting the arm to the wrist</string>
+    <string name="fingernail_desc">Fingernail is end of finger, protecting nail beds from foreign
+        particles; helping with grip</string>
+    <string name="shin_desc">Shin is lower leg, under the knee, flexing the foot; stabilizing
+        the ankle</string>
+    <string name="ankle_desc">Ankle is joint between the foot and shin, rotating the foot;
+        connecting the foot to the leg</string>
+    <string name="heel_desc">Heel is back of the foot, distributing body weight</string>
+    <string name="torso_desc">Torso is middle of the body, between the neck and legs, stabilizing
+        the body (posture); protecting internal organs; connecting the limbs (arms and legs) to the body</string>
+    <string name="abdomen_desc">Abdomen is middle of the torso, stabilizing the body; protecting internal organs</string>
+    <string name="belly_button_desc">Belly Button is the middle of the belly, connects a
+        baby’s umbilical cord to its mother’s placenta before birth</string>
+    <string name="buttock_desc">Buttock is back of the torso, just above the legs, cushioning
+        the body when sitting; assisting in hip and thigh movement</string>
+
+
+    <!--  Description  -->
+    <string name="arm_desc">Arm is a human upper limb especially the part between
+        the shoulder and the wrist. something like or corresponding to an arm.
+        such as the forelimb of a vertebrate.</string>
+    <string name="ear_desc">Ear is on either side of the head, sense of hearing; maintaining balance</string>
+    <string name="elbow_desc">Elbow is joint between the upper arm and forearm, connecting the
+        upper arm to the forearm; extending the arm; rotating the lower arm</string>
+
+    <string name="foot_desc">The foot is an anatomical structure found in many vertebrates.
+        It is the terminal portion of a limb which bears weight and allows locomotion. </string>
+
+    <string name="hand_wrist_desc">Wrist is the part of the body between
+        hand and arm which bends when you move your hand.</string>
+    <string name="hip_desc">Hips are the two areas at the sides of your body
+        between the tops of your legs and your waist.</string>
+    <string name="knuckle_desc">Knuckle is the joint between hand bones (carpals) and finger bones
+        (phalanges) connecting the fingers to the hand; allow fingers to bend and extend</string>
+
+    <string name="middle_finger_desc">Middle finger commonly referred to as the long or
+        tall finger sits in the center of the hand. </string>
+
+    <string name="palm_desc">Palm is flat side of hand, helping with grip; sense of touch</string>
+
+    <string name="picky_finger_desc">Picky finger is the fifth digit and smallest of the fingers.</string>
+
+    <string name="pointer_finger_desc">Pointer Finger</string>
+    <string name="ring_finger_desc">Ring Finger</string>
+
+    <string name="teeth_desc">Tooth, plural teeth, any of the hard,
+        resistant structures occurring on the jaws and in or around
+        the mouth and pharynx areas of vertebrates. Teeth are used for
+        catching and masticating food, for defense, and for other
+        specialized purposes.</string>
+
+    <string name="thumb_desc">the short thick digit of the human hand that is
+        analogous in position to the big toe and differs from the other fingers
+        in having only two phalanges, allowing greater freedom of movement, and
+        being opposable to each of them also, Different from the other four digits
+        in that it is shorter and wider and only has two phalanges instead of three,
+        the thumb earned its name from a description of its physical characteristics
+        in relation to its neighbors. </string>
+
+    <string name="hair">Hair</string>
+    <string name="head">Head</string>
+    <string name="neck">Neck</string>
+    <string name="chest">Chest</string>
+    <string name="shoulder">Shoulder</string>
+    <string name="stomach">Stomach</string>
+    <string name="wrist">Wrist</string>
+    <string name="hand">Hand</string>
+    <string name="finger">Finger</string>
+    <string name="thigh">Thigh</string>
+    <string name="knee">Knee</string>
+    <string name="skin">Skin</string>
+    <string name="leg">Leg</string>
+    <string name="toe">Toe</string>
+
+    <!--    Description-->
+
+    <string name="hair_desc">Hair is on top of the scalp, regulating body temperature;
+        protecting the scalp</string>
+    <string name="head_desc">Head</string>
+    <string name="neck_desc">Neck is below the head, above the shoulders, for supporting the head’s
+        weight; allowing the head to turn; sending messages from the brain to the rest of the body (vertebrae)</string>
+    <string name="chest_desc">Chest is top of the torso, protecting lungs and heart;
+        assisting in arm movement</string>
+    <string name="shoulder_desc">Shoulder</string>
+    <string name="stomach_desc">Stomach</string>
+    <string name="wrist_desc">Wrist</string>
+    <string name="hand_desc">hand is end of the arm, connected to the wrist,
+        fine motor skills (writing, pinching, gripping) </string>
+    <string name="finger_desc">finger is end of hand, helping with grip;
+        sense of touch; gesturing (pointing, hand signals, etc.)</string>
+    <string name="thigh_desc">Thigh is top of leg, above the knee, allowing the leg to flex and
+        move; supporting weight of the upper body</string>
+    <string name="knee_desc">Knee is joint between the thigh and shin, bending the leg;
+        supporting weight of the upper body</string>
+    <string name="skin_desc">Skin</string>
+    <string name="leg_desc">Legs are below torso, above foot, keeping the body stable; walking;
+        running; bending the body</string>
+    <string name="toe_desc">Toe is end of the foot, providing balance while walking;
+        distributing body weight</string>
+
+
+    <string name="your_search_will_be_displayed_here">Your search will be displayed here</string>
+    <string name="change_language">Change Language</string>
+    <string name="exit">Exit</string>
+    <string name="exit_title">Are you sure you want to exit?</string>
+    <string name="yes">YES</string>
+    <string name="no">NO</string>
+    <string name="search">Search</string>
+    <string name="search_body">Search Body</string>
+    <string name="no_search_found">No Search Found</string>
+    <string name="image">Image</string>
+    <string name="home">Home</string>
+    <string name="welcome_text">DEVELOPMENT OF AN ANDROID BASED MULTILINGUAL HUMAN BODY ORGAN TUTORING SYSTEM</string>
+    <string name="please_wait">please wait...</string>
+</resources>
