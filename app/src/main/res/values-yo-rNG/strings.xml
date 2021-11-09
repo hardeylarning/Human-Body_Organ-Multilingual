@@ -16,7 +16,7 @@
     <string name="knuckle">Ikùnkún</string>
     <string name="middle_finger">Ìkàrin</string>
     <string name="palm">Ọpẹ Ìka</string>
-    <string name="picky_finger">Ìka imunkan</string>
+    <string name="picky_finger">Kurumbete</string>
     <string name="pointer_finger">Ìka itọka</string>
     <string name="ring_finger">Ìka-oruka</string>
     <string name="teeth">Eyín</string>
@@ -91,7 +91,7 @@
 
 <!--    New One-->
 
-    <string name="face">Ojú</string>
+    <string name="face">Iwájú Ojú</string>
     <string name="scalp">Awọ-orí</string>
     <string name="forehead">Iwájú</string>
     <string name="mouth">Ẹnu</string>

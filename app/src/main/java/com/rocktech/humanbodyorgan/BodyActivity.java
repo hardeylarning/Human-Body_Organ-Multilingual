@@ -68,7 +68,7 @@ public class BodyActivity extends AppCompatActivity {
         organs.add(new Organ(20, getString(R.string.eyelid), R.drawable.eyelid, getString(R.string.eyelid_desc)));
         organs.add(new Organ(21, getString(R.string.eyelash), R.drawable.eyelashes, getString(R.string.eyelash_desc)));
         organs.add(new Organ(22, getString(R.string.jaw), R.drawable.jaw, getString(R.string.jaw_desc)));
-        organs.add(new Organ(23, getString(R.string.upper_arm), R.drawable.arm, getString(R.string.upper_arm_desc)));
+        organs.add(new Organ(23, getString(R.string.upper_arm), R.drawable.upper_arm, getString(R.string.upper_arm_desc)));
         organs.add(new Organ(25, getString(R.string.fingernail), R.drawable.fingers, getString(R.string.fingernail_desc)));
         organs.add(new Organ(27, getString(R.string.ankle), R.drawable.ankle, getString(R.string.ankle_desc)));
         organs.add(new Organ(28, getString(R.string.heel), R.drawable.heel, getString(R.string.heel_desc)));
