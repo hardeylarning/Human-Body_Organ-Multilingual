@@ -21,8 +21,8 @@ public class MainActivity extends AppCompatActivity {
         assert actionBar != null;
         actionBar.setTitle(getResources().getString(R.string.app_name));
 
+        // Delay for 5 seconds before display
         new Handler().postDelayed(() -> {
-
             Intent intent = new Intent(MainActivity.this, MaleActivity.class);
             startActivity(intent);
         }, 5000);
